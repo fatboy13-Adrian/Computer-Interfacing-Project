@@ -1,0 +1,5 @@
+Error[1027] G:\Computer Interface\Project2\Project\Microchip\Include\Compiler.h 62 : unable to locate 'p18cxxx.h'
+Error[1027] G:\Computer Interface\Project2\Project\Microchip\Include\Compiler.h 86 : unable to locate 'stdio.h'
+Error[1027] G:\Computer Interface\Project2\Project\Microchip\Include\Compiler.h 87 : unable to locate 'stdlib.h'
+Error[1027] G:\Computer Interface\Project2\Project\Microchip\Include\Compiler.h 88 : unable to locate 'string.h'
+Error[1027] G:\Computer Interface\Project2\Project\Microchip\Include\USB\usb_common.h 88 : unable to locate 'limits.h'
